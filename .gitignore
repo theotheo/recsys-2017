@@ -1,0 +1,4 @@
+*.csv
+*.model
+__pycache__
+*.zip
